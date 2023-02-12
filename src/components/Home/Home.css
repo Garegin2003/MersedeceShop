@@ -1,0 +1,63 @@
+section {
+  width: 100%;
+}
+section .container {
+  width: 60%;
+  margin: 0 auto;
+  min-height: 1382px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: -275px;
+}
+section .title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+section .title h2 {
+  font-size: 2.75rem;
+  line-height: 1.1;
+  font-weight: 400;
+}
+section .title p {
+  font-style: italic;
+  font-size: 1.125rem;
+  margin: 40px auto 0;
+}
+section .desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  margin: 50px 0;
+}
+section .desc .desc-img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 200px;
+}
+section .desc .desc-img img {
+  width: 374px;
+  height: 184px;
+  margin: 0 auto 0 0;
+}
+section .desc .desc-img .desc-info h4 {
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+section .desc .desc-img .desc-info a {
+  background-color: #3151aa;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 20px auto 0 0;
+  padding: 8px 33px;
+  border-radius: 50px;
+}/*# sourceMappingURL=Home.css.map */

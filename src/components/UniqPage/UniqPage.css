@@ -1,0 +1,53 @@
+.uniq {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  width: 70%;
+  margin: 20vh auto;
+}
+.uniq .img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.uniq .info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.uniq .info h2 {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: 5px;
+  color: rgba(0, 0, 0, 0.8);
+}
+.uniq .info p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.1rem;
+  margin: 10px 0;
+}
+.uniq .info h3 {
+  font-size: 2rem;
+  color: rgba(0, 0, 0, 0.8);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 10px;
+}
+.uniq .info button {
+  width: 200px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 30px;
+  height: 50px;
+  cursor: pointer;
+}
+.uniq .info button span {
+  color: #ffffff;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 5px;
+  font-size: 1.5rem;
+}/*# sourceMappingURL=UniqPage.css.map */

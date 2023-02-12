@@ -1,0 +1,73 @@
+.cartItems {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  top: 60px;
+  width: 400px;
+  right: 25%;
+  position: absolute;
+  overflow: scroll;
+  background: #ffffff;
+  visibility: visible;
+  height: 400px;
+}
+.cartItems div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cartItems div h4 {
+  cursor: pointer;
+  color: red;
+  float: right;
+}
+.cartItems .cart-item {
+  width: 340px;
+  height: 80px;
+  padding: 20px;
+  border: 1px solid rgb(73, 73, 73);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  -moz-column-gap: 25px;
+       column-gap: 25px;
+  position: relative;
+}
+.cartItems .cart-item img {
+  width: 70px;
+  height: 70px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.cartItems .cart-item h1 {
+  font-size: 20px;
+}
+.cartItems .cart-item h3 {
+  font-size: 20px;
+  font-weight: lighter;
+  color: rgba(13, 13, 13, 0.8);
+}
+.cartItems .cart-item span {
+  position: absolute;
+  bottom: 1px;
+  right: 30px;
+  color: rgb(73, 73, 73);
+}
+.cartItems .cart-item .plus {
+  right: 10px !important;
+  font-size: 20px !important;
+  color: rgb(73, 73, 73) !important;
+  cursor: pointer;
+}
+.cartItems .cart-item .minus {
+  right: 50px !important;
+  font-size: 20px !important;
+  color: rgb(73, 73, 73) !important;
+  cursor: pointer;
+}
+.cartItems .cart-item p {
+  color: rgb(255, 19, 19);
+  position: absolute;
+  top: 4px;
+  right: 10px;
+}/*# sourceMappingURL=Cart.css.map */

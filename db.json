@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "title": "Mercedes-Benz GLA-SUV",
+      "price": 43850,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/glc/suv/all-vehicles/2022-GLC300-SUV-AVP-DR.png",
+      "id": 1
+    },
+    {
+      "title": "Mercedes-Benz GLC Coupe",
+      "price": 52500,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/glc/coupe/all-vehicles/2022-GLC300-COUPE-AVP-DR.png",
+      "id": 2
+    },
+    {
+      "title": "Mercedes-Benz EQB SUV",
+      "price": 54500,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/eqb-suv/all-vehicles/2022-EQB-AMGLINE-SUV-AVP-DR.png",
+      "id": 3
+    },
+    {
+      "title": "Mercedes-Benz GLE SUV",
+      "price": 57700,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/gle/suv/all-vehicles/2023-GLE350-SUV-AVP-DR.png",
+      "id": 4
+    },
+    {
+      "title": "Mercedes-Benz GLE Coupe",
+      "price": 81200,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/gle/gle-coupe/all-vehicles/2022-AMG-GLE53-COUPE-AVP-DR.png",
+      "id": 5
+    },
+    {
+      "title": "Mercedes-Benz GLS SUV",
+      "price": 81800,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/gls/suv/all-vehicles/2022-GLS450-SUV-AVP-DR.png",
+      "id": 6
+    },
+    {
+      "title": "Mercedes-Benz EQS SUV",
+      "price": 104400,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my23/eqs-suv/all-vehicles/2023-EQS450-SUV-AVP-DR.png",
+      "id": 7
+    },
+    {
+      "title": "Mercedes-Benz G-Class SUV",
+      "price": 139900,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/g/all-vehicles/2022-G550-SUV-AVP-DR.png",
+      "id": 8
+    },
+    {
+      "title": "Mercedes-Benz C-Class Sedan",
+      "price": 43550,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/sedan/all-vehicles/2022-C300-SEDAN-AVP-DR.png",
+      "id": 9
+    },
+    {
+      "title": "Mercedes-Benz Maybach S-Class",
+      "price": 184900,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "count": 1,
+      "password": "1111",
+      "img": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/s/maybach/all-vehicles/2022-MAYBACH-SEDAN-AVP-DR.png",
+      "id": 10
+    }
+  ],
+  "home": [
+    {
+      "image": "https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/211cb42d65945a3299e2d376/001.jpg",
+      "title": "Economy",
+      "description": "Quite popular with budget travelers visiting the US(usually for short term travel plans), economy cars fall in the category of low-cost rental solutions. Not only inexpensive these rental vehicles are also fuel-efficient.",
+      "href": "Book now",
+      "id": 1
+    },
+    {
+      "image": "https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/c1b58ff713355ebab4c27ee0/12.jpg",
+      "title": "Luxury",
+      "description": "Customers visiting America rent luxury cars for business, vacations and other special life occasions like anniversaries. They are used mainly for the comfort and the style quotient they add to the trip.",
+      "href": "Book now",
+      "id": 2
+    },
+    {
+      "image": "https://images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/77c8f00302d150e2b8b63275/xxx.jpg",
+      "title": "Convertible",
+      "description": "Quite popular with budget travelers visiting the US(usually for short term travel plans), economy cars fall in the category of low-cost rental solutions. Not only inexpensive these rental vehicles are also fuel-efficient.",
+      "href": "Book now",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": [
+    {
+      "login": "garegin.hakobyan.s@gmail.com",
+      "password": "1111",
+      "id": 1
+    },
+    {
+      "login": "art@mail.ru",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "cart": []
+}
